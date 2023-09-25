@@ -1,0 +1,15 @@
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\bin\Debug\net7.0\OnlineStore.DAL.deps.json
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\bin\Debug\net7.0\OnlineStore.DAL.dll
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\bin\Debug\net7.0\OnlineStore.DAL.pdb
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\bin\Debug\net7.0\OnlineStore.Domain.dll
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\bin\Debug\net7.0\OnlineStore.Domain.pdb
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\obj\Debug\net7.0\OnlineStore.DAL.csproj.AssemblyReference.cache
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\obj\Debug\net7.0\OnlineStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\obj\Debug\net7.0\OnlineStore.DAL.AssemblyInfoInputs.cache
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\obj\Debug\net7.0\OnlineStore.DAL.AssemblyInfo.cs
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\obj\Debug\net7.0\OnlineStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\obj\Debug\net7.0\OnlineStore.DAL.csproj.CopyComplete
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\obj\Debug\net7.0\OnlineStore.DAL.dll
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\obj\Debug\net7.0\refint\OnlineStore.DAL.dll
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\obj\Debug\net7.0\OnlineStore.DAL.pdb
+C:\Users\hellw\Desktop\C#\Online_Store_API\OnlineStore.DAL\obj\Debug\net7.0\ref\OnlineStore.DAL.dll
